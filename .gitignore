@@ -1,0 +1,12 @@
+_includes/
+_sass/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile
+Gemfile.lock
+!./_includes/head/custom.html
+!./_includes/footer.html
+!./_includes/sidebar.html
+!./_includes/footer/custom.html
