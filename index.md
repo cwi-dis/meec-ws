@@ -4,13 +4,11 @@ excerpt: "Workshop at ACM CHI 2020"
 header:
   overlay_image: /assets/imgs/meec_splash.png
   overlay_filter: rgba(0, 0, 0, 0.7)
-  actions:
-      - label: "Submit [EasyChair]"
-        url: "https://easychair.org/conferences/?conf=meec2020"
+
 sidebar:
   - title: "Important Dates:"
     image_alt: "in the moment emotions."
-    text: "Papers Deadline: ~~11-Feb-2020~~ <br>25-Feb-2020"
+    text: "Papers Deadline: 25-Feb-2020"
   - extra: ""
     text: "Papers Decisions: 28-Feb-2020"
   - extra: ""
@@ -18,23 +16,18 @@ sidebar:
   - extra: ""
     text: "<br>"
   - extra: ""
-    text: "Location: TBA"
+    text: "Location: Ether"
   - extra: ""
     text: "Contact: [aea@cwi.nl](mailto:aea@cwi.nl)"
 
 layout: single
 title: Momentary Emotion Elicitation & Capture (MEEC)
 ---
-## <span style="color:red"> COVID-19 Update </span>
-
-<span style="color:red">Given recent developments concerning COVID-19, CHI 2020 will not take place (physically) this year. We are currently assessing how to run this workshop in a remote manner. We will provide an update in the coming weeks. For now, please stay home and be safe!
-<br><br>
---MEEC 2020 PC
-</span>
-
----
-
-The first one-day workshop on Momentary Emotion Elicitation and Capture (MEEC) will take place on Saturday, April 25th, 2020 at the [ACM CHI 2020 Conference](https://chi2020.acm.org/){:target="\_blank"} in Honolulu (Hawaii, USA).
+<!-- actions:
+    - label: "Submit [EasyChair]"
+      url: "https://easychair.org/conferences/?conf=meec2020"
+       -->
+The first one-day workshop on Momentary Emotion Elicitation and Capture (MEEC) was to be held on Saturday, April 25th, 2020 at the [ACM CHI 2020 Conference](https://chi2020.acm.org/){:target="\_blank"} in Honolulu (Hawaii, USA). Due to the outbreak of COVID-19 in early 2020, this workshop (along with CHI 2020) unfortunately had to be cancelled. The workshop proceedings can be found [here](accepted_papers).
 <br><br>
 <a href="https://chi2020.acm.org/" target="\_blank"><img src="./assets/imgs/chi2020.png" width="140"></a>
 
