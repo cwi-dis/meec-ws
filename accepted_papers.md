@@ -25,7 +25,7 @@ List of accepted papers below:
 
 - **Real-time, Continuous Emotion Annotation Prototype for 360° VR Videos**. Tong Xue (Beijing Institute of Technology; Centrum Wiskunde & Informatica), Surjya Ghosh (Centrum Wiskunde & Informatica), Gangyi Ding (Beijing Institute of Technology), Abdallah El Ali (Centrum Wiskunde & Informatica) and Pablo Cesar (Centrum Wiskunde & Informatica; TU Delft). [pdf](./papers/MEEC_2020_paper_1.pdf)
 
-- **Role of BSCL in tackling student challenges in mental health.** Marcel Neuenhaus (Hamm-Lippstadt University of Applied Sciences). [pdf](./papers/MEEC_2020_paper_2.pdf)	 
+- **Role of BSCL in tackling student challenges in mental health.** Marcel Neuenhaus (Hamm-Lippstadt University of Applied Sciences).
 
 - **Real-time, Continuous Emotion Annotation Technique for Mobile Video Watching.** Tianyi Zhang (Centrum Wiskunde & Informatica; TU Delft), Abdallah Ali (Centrum Wiskunde & Informatica), Alan Hanjalic (TU Delft) and Pablo Cesar (Centrum Wiskunde & Informatica; TU Delft). [pdf](./papers/MEEC_2020_paper_3.pdf)	 
 
