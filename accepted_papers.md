@@ -25,6 +25,9 @@ List of accepted papers below:
 
 - **Real-time, Continuous Emotion Annotation Prototype for 360° VR Videos**. Tong Xue (Beijing Institute of Technology; Centrum Wiskunde & Informatica), Surjya Ghosh (Centrum Wiskunde & Informatica), Gangyi Ding (Beijing Institute of Technology), Abdallah El Ali (Centrum Wiskunde & Informatica) and Pablo Cesar (Centrum Wiskunde & Informatica; TU Delft). [pdf](./papers/MEEC_2020_paper_1.pdf)
 
+<iframe width="180" height="110" src="https://www.youtube.com/embed/videoseries?list=PLAmF9k59AvVHiNzZqI-4kQnksxfbUvjET" frameborder="0" allowfullscreen></iframe>
+
+
 - **Role of BSCL in tackling student challenges in mental health.** Marcel Neuenhaus (Hamm-Lippstadt University of Applied Sciences).
 
 - **Real-time, Continuous Emotion Annotation Technique for Mobile Video Watching.** Tianyi Zhang (Centrum Wiskunde & Informatica; TU Delft), Abdallah Ali (Centrum Wiskunde & Informatica), Alan Hanjalic (TU Delft) and Pablo Cesar (Centrum Wiskunde & Informatica; TU Delft). [pdf](./papers/MEEC_2020_paper_3.pdf)	 
@@ -35,6 +38,8 @@ List of accepted papers below:
 
 - **Time Perception and Emotion Awareness.** Monica Perusquía-Hernández (NTT Communication Science Laboratories) and Yoshiko Yabe (NTT Communication Science Laboratories). [pdf](./papers/MEEC_2020_paper_6.pdf)
 
+<iframe width="180" height="110" src="https://www.youtube.com/embed/J7l8707lp4Y" frameborder="0" allowfullscreen></iframe>
+
 - **Emotion Capture among Real Couples in Everyday Life.** George Boateng (ETH Zurich), Janina Luescher (University of Zurich), Urte Scholz (Universität Zürich, Psychologisches Institut) and Tobias Kowatsch (University of St.Gallen; ETH Zürich). [pdf](./papers/MEEC_2020_paper_7.pdf)
 
 - **Emotion Elicitation and Capture among Real Couples in the Lab.** George Boateng (ETH Zurich), Laura Sels (Ghent University), Peter Kuppens (KU Leuven), Janina Luescher (University of Zurich), Urte Scholz (Universität Zürich, Psychologisches Institut) and Tobias Kowatsch (University of St.Gallen; ETH Zürich). [pdf](./papers/MEEC_2020_paper_8.pdf)
@@ -42,6 +47,8 @@ List of accepted papers below:
 - **Understanding Emotions in Virtual Reality.** Radiah Rivu (Bundeswehr University Munich), Mariam Hassib (Bundeswehr University Munich), Ville Mäkelä (LMU Munich) and Florian Alt (Bundeswehr University Munich). [pdf](./papers/MEEC_2020_paper_9.pdf)
 
 - **Guidelines for Affect Elicitation and Tracking in High Intensity VR Exergaming.** Soumya C. Barathi (University of Bath), Michael Proulx (University of Bath), Eamonn O’neill (University of Bath) and Christof Lutteroth (University of Bath). [pdf](./papers/MEEC_2020_paper_10.pdf)
+
+<iframe width="180" height="110" src="https://www.youtube.com/embed/57CMzbSbFjw" frameborder="0" allowfullscreen></iframe>
 
 - **EmoKey: An Emotion-aware Keyboard for Mental Health Monitoring.** Surjya Ghosh (Centrum Wiskunde & Informatica), Bivas Mitra (IIT Kharagpur) and Pradipta De (Georgia Southern University). [pdf](./papers/MEEC_2020_paper_11.pdf)
 
