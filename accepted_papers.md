@@ -32,6 +32,9 @@ List of accepted papers below:
 
 - **Real-time, Continuous Emotion Annotation Technique for Mobile Video Watching.** Tianyi Zhang (Centrum Wiskunde & Informatica; TU Delft), Abdallah Ali (Centrum Wiskunde & Informatica), Alan Hanjalic (TU Delft) and Pablo Cesar (Centrum Wiskunde & Informatica; TU Delft). [pdf](./papers/MEEC_2020_paper_3.pdf)	 
 
+<iframe width="180" height="110" src="https://www.youtube.com/embed/4D1MLdaRUpk" frameborder="0" allowfullscreen></iframe>
+
+
 - **Modeling Behaviour to Predict User State: Self-Reports as Ground Truth.** Julian Frommel (University of Saskatchewan) and Regan L. Mandryk (University of Saskatchewan). [pdf](./papers/MEEC_2020_paper_4.pdf)
 
 - **Implicit Cooperation: Emotion Detection for Validation and Adaptation of Automated Vehicles' Driving Behavior.** Henrik Detjen (University of Applied Science Ruhr West; University of Duisburg-Essen), Stefan Geisler (University of Applied Science Ruhr West) and Stefan Schneegass (University of Duisburg-Essen). [pdf](./papers/MEEC_2020_paper_5.pdf)
