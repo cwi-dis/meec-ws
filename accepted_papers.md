@@ -55,6 +55,6 @@ List of accepted papers below:
 
 - **EmoKey: An Emotion-aware Keyboard for Mental Health Monitoring.** Surjya Ghosh (Centrum Wiskunde & Informatica), Bivas Mitra (IIT Kharagpur) and Pradipta De (Georgia Southern University). [pdf](./papers/MEEC_2020_paper_11.pdf)
 
-iframe width="180" height="110" src="https://www.youtube.com/embed/m0q7yUiDhg8" frameborder="0" allowfullscreen></iframe>
+<iframe width="180" height="110" src="https://www.youtube.com/embed/m0q7yUiDhg8" frameborder="0" allowfullscreen></iframe>
 
 - **Exploring the Relationship Between Momentary Emotions & Smartphone Content: A Pilot Study.** Katherine Roehrick (Stanford University) and Gabriella Harari (Stanford University). [pdf](./papers/MEEC_2020_paper_12.pdf)
