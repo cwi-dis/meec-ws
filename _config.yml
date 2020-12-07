@@ -1,5 +1,5 @@
 
-title: "MEEC Workshop at CHI 2020"
+title: "MEEC Virtual Workshop at CHI 2021"
 logo: "./assets/imgs/logo1.png"
 description: "Towards better methods for Momentary Emotion Elicitation and Capture."
 
@@ -7,7 +7,7 @@ description: "Towards better methods for Momentary Emotion Elicitation and Captu
 search: false
 
 author:
-  name     : "MEEC 2020 WS"
+  name     : "MEEC 2021 WS"
   avatar   : "./assets/imgs/logo2.png"
   bio      : "Something"
   location : "Somewhere"

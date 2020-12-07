@@ -33,9 +33,9 @@ Monica Perusquía-Hernández is a Research Associate at NTT Communication Scienc
 
 ---
 
-![smiley](./assets/imgs/pete.jpg){:height="80px" width="80px"} &nbsp;&nbsp; **Pete Denman**{:style="color: black"} - Intel, USA
+![smiley](./assets/imgs/mariam.png){:height="80px" width="80px"} &nbsp;&nbsp; **Mariam Hassib**{:style="color: black"} - BU Munich, Germany
 
-Pete Denman is a Senior Designer developing exploratory prototypes in "Labs" at Intel Corp. Focus on capturing emotion in daily life. He guides ideas through the design process, working with developers, engineers, and ethnographic researchers to create future technologies. Known best for being the lead designer at Intel for famed physicist Stephen Hawking's speech software, Denman could relate to Hawking's circumstances more than most due to his disability. Pete has a passion for connecting the areas of disabilities and learning/education with technology. Denman's current work focuses on affective computing and robots.
+Mariam Hassib is a postdoctoral researcher at the Bundeswehr University Munich in Germany. Her research interests are Brain Computer Interfaces (BCI), and Physiological Computing. She is working on building systems which provide feedback and adapt to the cognitive and affective states of users. She leverages the current ubiquity of BCI devices and wearable physiological sensors to create new tools that support cognitive-awareness outside the lab environment.
 
 ---
 
@@ -45,24 +45,6 @@ Yomna Abdelrahman is a postdoctoral researcher at the Bundeswehr University Muni
 
 ---
 
-![smiley](./assets/imgs/mariam.png){:height="80px" width="80px"} &nbsp;&nbsp; **Mariam Hassib**{:style="color: black"} - BU Munich, Germany
+![smiley](./assets/imgs/joshua.jpg){:height="80px" width="80px"} &nbsp;&nbsp; **Joshua Newn**{:style="color: black"} - Uni Melbourne, Australia
 
-Mariam Hassib is a postdoctoral researcher at the Bundeswehr University Munich in Germany. Her research interests are Brain Computer Interfaces (BCI), and Physiological Computing. She is working on building systems which provide feedback and adapt to the cognitive and affective states of users. She leverages the current ubiquity of BCI devices and wearable physiological sensors to create new tools that support cognitive-awareness outside the lab environment.
-
----
-
-![smiley](./assets/imgs/alexander.jpeg){:height="80px" width="80px"} &nbsp;&nbsp; **Alexander Meschtscherjakov**{:style="color: black"} - Uni Salzburg, Austria
-
-Alexander Meschtscherjakov is Associate Professor at the Center for Human-Computer Interaction of Salzburg University. He is focusing on persuasive interaction technologies, automotive user interfaces, contextual user experience and challenges of automation for HCI with a special focus on affective computing. He has co-organised conferences such as Persuasive '15 and more than 25 workshops (e.g., CHI 2019).
-
----
-
-![smiley](./assets/imgs/denzil.jpeg){:height="80px" width="80px"} &nbsp;&nbsp; **Denzil Ferreira**{:style="color: black"} - Uni Oulu, Finland
-
-Denzil Ferreira is an Associate Professor in Mobile Computing. He acts as Deputy Director at the [Center for Ubiquitous Computing](http://ubicomp.oulu.fi), and is the lead PI at [UBICOMP-CIA]( https://www.ubicomp-cia.com). His research interests are on technology-driven human behavior sensing and modeling, juxtaposing methods from large-scale data analysis, sensor instrumentation, applied machine learning, mobile and ubiquitous computing to understand and study a variety of human behavioral and social phenomena in naturalistic settings.
-
----
-
-![smiley](./assets/imgs/niels.jpeg){:height="80px" width="80px"} &nbsp;&nbsp; **Niels Henze**{:style="color: black"} - Uni Regensburg, Germany
-
-Niels Henze is professor for Media Informatics at the University of Regensburg. His research interests are mobile human-computer interaction and pervasive computing. Particularly, he is interested in large-scale studies using mobile application stores as a research tool, interlinking physical objects and digital information, and multimodal interfaces. His recent work focuses on identifying, manipulating and evaluating how our sense of presence is affected in virtual reality environments.
+Joshua Newn is a Postdoctoral Researcher in School of Computing and Information Systems at The University of Melbourne in Australia, where he specialises in the design, development and evaluation of Human-Centred AI. His research interests span across a wide range of areas, including the applications of novel inputs technologies to support human-AI interaction, multimodal sensing for cognition- and context-aware AI systems for health and learning applications, and the design and evaluation of explainable AI interfaces.

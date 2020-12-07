@@ -15,7 +15,7 @@ sidebar:
     text: "Contact: [aea@cwi.nl](mailto:aea@cwi.nl)"
 
 layout: single
-title: Accepted Papers
+title: Accepted Papers (2020)
 ---
 
 [Download proceedings (.zip)](./papers/MEEC_2020_proceedings.zip)

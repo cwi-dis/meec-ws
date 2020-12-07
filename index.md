@@ -1,5 +1,5 @@
 ---
-excerpt: "Workshop at ACM CHI 2020"
+excerpt: "Virtual Workshop at ACM CHI 2021"
 
 header:
   overlay_image: /assets/imgs/meec_splash.png
@@ -21,15 +21,17 @@ sidebar:
     text: "Contact: [aea@cwi.nl](mailto:aea@cwi.nl)"
 
 layout: single
-title: Momentary Emotion Elicitation & Capture (MEEC)
+title: 2nd Momentary Emotion Elicitation & Capture (MEEC)
 ---
 <!-- actions:
     - label: "Submit [EasyChair]"
       url: "https://easychair.org/conferences/?conf=meec2020"
        -->
-The first one-day workshop on Momentary Emotion Elicitation and Capture (MEEC) was to be held on Saturday, April 25th, 2020 at the [ACM CHI 2020 Conference](https://chi2020.acm.org/){:target="\_blank"} in Honolulu (Hawaii, USA). Due to the outbreak of COVID-19 in early 2020, this workshop (along with CHI 2020) unfortunately had to be cancelled. The workshop proceedings can be found [here](accepted_papers).
+The second half-day virtual workshop on Momentary Emotion Elicitation and Capture (MEEC) is to be held on Sunday, May 9th, 2021 during the [ACM CHI 2021 Conference](https://chi2021.acm.org/){:target="\_blank"} virtually.
+
+First MEEC workshop proceedings can be found [here](accepted_papers).
 <br><br>
-<a href="https://chi2020.acm.org/" target="\_blank"><img src="./assets/imgs/chi2020.png" width="140"></a>
+<a href="https://chi2020.acm.org/" target="\_blank"><img src="./assets/imgs/chi2021.png" width="120"></a>
 
 
 ## About
@@ -53,11 +55,8 @@ We invite position papers, posters, and demos that present emotion elicitation a
 
 <a href="https://www.dis.cwi.nl/"><img src="./assets/imgs/logos/cwi.png" width="140"></a> &nbsp;
 <a href="http://www.kecl.ntt.co.jp/english/index.html"><img src="./assets/imgs/logos/ntt.png" width="120"> </a> &nbsp;
-<a href="https://www.intel.com/content/www/us/en/research/overview.html"><img src="./assets/imgs/logos/intel.png" width="90"> </a> &nbsp;
-<a href="https://www.unibw.de/home-en"><img src="./assets/imgs/logos/bum.png" width="160"></a> &nbsp; <br>
-<a href="https://www.uni-salzburg.at/index.php?id=52&L=1"><img src="./assets/imgs/logos/salzburg.png" width="140"></a> &nbsp;
-<a href="https://www.oulu.fi/university/"><img src="./assets/imgs/logos/oulu.png" width="160"></a> &nbsp;
-<a href="https://www.uni-regensburg.de/"><img src="./assets/imgs/logos/regensburg.png" width="150"></a> &nbsp;
+<a href="https://www.unibw.de/home-en"><img src="./assets/imgs/logos/bum.png" width="160"></a> &nbsp;
+<a href="https://www.unimelb.edu.au/"><img src="./assets/imgs/logos/melb.png" width="80"></a> &nbsp; <br>
 
 List of organizers [here](committee).
 
