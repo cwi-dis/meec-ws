@@ -2,26 +2,28 @@
 sidebar:
   - title: "Important Dates:"
     image_alt: "in the moment emotions."
-    text: "Papers Deadline: 25-Feb-2020"
+    text: "Papers Deadline: 21-Feb-2021"
   - extra: ""
-    text: "Papers Decisions: 28-Feb-2020"
+    text: "Papers Decisions: 7-Mar-2021"
   - extra: ""
-    text: "Workshop: Saturday, 25-April-2020"
+    text: "Workshop: Sunday, 09-May-2021"
+  - extra: ""
+    text: "Time: <br> 08:00-12:15 CET (UTC+01:00) <br> 16:00-22:15 JST"
   - extra: ""
     text: "<br>"
   - extra: ""
-    text: "Location: TBA"
+    text: "Location: Virtual"
   - extra: ""
     text: "Contact: [aea@cwi.nl](mailto:aea@cwi.nl)"
 
 layout: single
-title: Accepted Papers (2020)
+title: 1st MEEC (2020) Accepted Papers
 ---
 
-[Download proceedings (.zip)](./papers/MEEC_2020_proceedings.zip)
+[Download MEEC (2020) proceedings (.zip)](./papers/MEEC_2020_proceedings.zip)
 
 
-List of accepted papers below:
+List of MEEC (2020) accepted papers below:
 
 - **Real-time, Continuous Emotion Annotation Prototype for 360° VR Videos**. Tong Xue (Beijing Institute of Technology; Centrum Wiskunde & Informatica), Surjya Ghosh (Centrum Wiskunde & Informatica), Gangyi Ding (Beijing Institute of Technology), Abdallah El Ali (Centrum Wiskunde & Informatica) and Pablo Cesar (Centrum Wiskunde & Informatica; TU Delft). [pdf](./papers/MEEC_2020_paper_1.pdf)
 

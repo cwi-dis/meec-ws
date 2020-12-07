@@ -2,15 +2,17 @@
 sidebar:
   - title: "Important Dates:"
     image_alt: "in the moment emotions."
-    text: "Papers Deadline: 25-Feb-2020"
+    text: "Papers Deadline: 21-Feb-2021"
   - extra: ""
-    text: "Papers Decisions: 28-Feb-2020"
+    text: "Papers Decisions: 7-Mar-2021"
   - extra: ""
-    text: "Workshop: Saturday, 25-April-2020"
+    text: "Workshop: Sunday, 09-May-2021"
+  - extra: ""
+    text: "Time: <br> 08:00-12:15 CET (UTC+01:00) <br> 16:00-22:15 JST"
   - extra: ""
     text: "<br>"
   - extra: ""
-    text: "Location: TBA"
+    text: "Location: Virtual"
   - extra: ""
     text: "Contact: [aea@cwi.nl](mailto:aea@cwi.nl)"
 
@@ -23,13 +25,13 @@ title: Organizers & Program Committee
 
 ![smiley](./assets/imgs/abdallah.jpg){:height="80px" width="80px"} &nbsp; **Abdallah El Ali**{:style="color: black"} - CWI, Amsterdam
 
-Abdallah El Ali is a tenure-track researcher at the [Distributed & Interactive Systems](https://www.dis.cwi.nl/) group at [Centrum Wiskunde & Informatica (CWI)](https://www.cwi.nl/) in the Netherlands. His research focuses on focuses on human activity sensing and recognition, mobile and wearable interaction techniques, and multimodal interaction, unified by the goal of further understanding human behavior and emotion. He combines advances in HCI and machine learning to enable pervasive affect sensing in and beyond mobile interactions. Website: [https://abdoelali.com/](https://abdoelali.com/){:target="\_blank"}
+Abdallah El Ali is a tenure-track researcher at the [Distributed & Interactive Systems](https://www.dis.cwi.nl/) group at [Centrum Wiskunde & Informatica (CWI)](https://www.cwi.nl/) in the Netherlands. His research focus is on temporal challenges in eliciting, capturing, and predicting human emotions, specifically on usable and effective emotion elicitation and annotation techniques across environments (VR/AR, mobile, wearables). Website: [https://abdoelali.com/](https://abdoelali.com/){:target="\_blank"}
 
 ---
 
 ![smiley](./assets/imgs/mon.jpg){:height="80px" width="80px"} &nbsp; **Monica Perusquía-Hernández**{:style="color: black"} - NTT , Japan
 
-Monica Perusquía-Hernández is a Research Associate at NTT Communication Science Laboratories, Japan. Her research interests include affective computing, bio-signal processing, augmented human technology, and artificial intelligence. In particular, she is interested in sensing techniques such as Computer Vision, EMG and Skin Conductance for congruence estimation between facial expressions and emotions when assessing user experience. Website: [http://monicaperusquia.com/](http://monicaperusquia.com/){:target="\_blank"}
+Monica Perusquía-Hernández is a Research Associate at NTT Communication Science Laboratories, Japan. She is interested in affective computing and bio-signal processing. In particular, she works with sensing techniques such as Computer Vision, EMG and Skin Conductance for congruence estimation between facial expressions and emotions when assessing subjective user experience, time perception and affective awareness. Website: [https://www.monicaperusquia.com/](https://www.monicaperusquia.com/){:target="\_blank"}
 
 ---
 

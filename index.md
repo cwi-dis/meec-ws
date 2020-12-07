@@ -8,15 +8,17 @@ header:
 sidebar:
   - title: "Important Dates:"
     image_alt: "in the moment emotions."
-    text: "Papers Deadline: 25-Feb-2020"
+    text: "Papers Deadline: 21-Feb-2021"
   - extra: ""
-    text: "Papers Decisions: 28-Feb-2020"
+    text: "Papers Decisions: 7-Mar-2021"
   - extra: ""
-    text: "Workshop: Saturday, 25-April-2020"
+    text: "Workshop: Sunday, 09-May-2021"
+  - extra: ""
+    text: "Time: <br> 08:00-12:15 CET (UTC+01:00) <br> 16:00-22:15 JST"
   - extra: ""
     text: "<br>"
   - extra: ""
-    text: "Location: Ether"
+    text: "Location: Virtual"
   - extra: ""
     text: "Contact: [aea@cwi.nl](mailto:aea@cwi.nl)"
 
@@ -28,28 +30,27 @@ title: 2nd Momentary Emotion Elicitation & Capture (MEEC)
       url: "https://easychair.org/conferences/?conf=meec2020"
        -->
 The second half-day virtual workshop on Momentary Emotion Elicitation and Capture (MEEC) is to be held on Sunday, May 9th, 2021 during the [ACM CHI 2021 Conference](https://chi2021.acm.org/){:target="\_blank"} virtually.
-
-First MEEC workshop proceedings can be found [here](accepted_papers).
 <br><br>
-<a href="https://chi2020.acm.org/" target="\_blank"><img src="./assets/imgs/chi2021.png" width="120"></a>
+<a href="https://chi2021.acm.org/" target="\_blank"><img src="./assets/imgs/chi2021.png" width="120"></a>
 
 
 ## About
 
 Recognizing human emotions and responding appropriately has the potential to radically change the way we interact with technology. However, to train machines to sensibly detect and recognize human emotions, we need valid emotion ground truths. We face a fundamental challenge concerning temporal resolution in emotion elicitation and measurement: even though emotions, whether microexpressions or bodily changes, are in continuous flux and can be measured, self-reports do not have the same temporal resolution. Several factors contribute to this temporal resolution mismatch, including different awareness levels across individuals; non-linearity in time perception; and how emotions themselves alter time perception.
 
-In this workshop, we address this challenge of Momentary Emotion Elicitation and Capture (MEEC) from individuals, continuously and in real-time, without adversely affecting user experience. The goals for this first edition of the one-day CHI 2020 workshop are:
+In this 2nd virtual workshop, we address this challenge of Momentary Emotion Elicitation and Capture (MEEC) from individuals, continuously and in real-time, without adversely affecting user experience. The goals for this second edition of the virtual CHI 2021 workshop are:
 
-1. Explore and define novel elicitation tasks
-2. Survey sensing and annotation techniques
-3. Create a taxonomy of when and where to apply an elicitation method
+1. Have participant talks and an inspirational keynote presentation
+2. Ideate elicitation, sensing, and annotation techniques
+3. Create mappings of when to apply an elicitation method
 
 
 ## How to Participate
 
-We invite position papers, posters, and demos that present emotion elicitation and/or capture methods. Submissions will be selected on their potential to spark discussion by two peer-reviewers in a single blind process. Submissions must include author names, and have a length of 2-8 pages, including references. Submissions should be in the [SIGCHI Extended Abstracts](https://chi2020.acm.org/authors/chi-proceedings-format/){:target="\_blank"} format and submitted in PDF through [Easychair](https://easychair.org/conferences/?conf=meec2020){:target="\_blank"}. Accepted submissions will be made available on the workshop website. At least one author must register for the workshop and one day of the conference.
+We invite position papers, posters, and demos (2-9 pages, including references) that describe/showcase emotion elicitation and/or capture methods. Submissions will be peer-reviewed by 2 peers, and selected on their potential to spark discussion. Submissions should be prepared according to the `ACM Master Article template` (single column) (see [CHI Publication Formats page](https://chi2021.acm.org/for-authors/chi-publication-formats){:target="\_blank"}) and submitted in PDF through [Easychair](https://easychair.org/conferences/?conf=meec2021){:target="\_blank"}. Accepted submissions will be made available on the workshop website. At least one author must register for the workshop and one day of the conference, with (TBD) special rates for remote attendance.
 
-[Submit [EasyChair]](https://easychair.org/conferences/?conf=meec2020){: .btn .btn--warning}{:target="\_blank"}
+
+[Submit [EasyChair]](https://easychair.org/conferences/?conf=meec2021){: .btn .btn--warning}{:target="\_blank"}
 
 ## Organization
 
@@ -59,6 +60,10 @@ We invite position papers, posters, and demos that present emotion elicitation a
 <a href="https://www.unimelb.edu.au/"><img src="./assets/imgs/logos/melb.png" width="80"></a> &nbsp; <br>
 
 List of organizers [here](committee).
+
+## 1st MEEC Workshop at CHI 2020
+
+First MEEC workshop at CHI 2020 proceedings can be found [here](accepted_papers_2020). MEEC 2020 publication in the [ACM digital Library](https://dl.acm.org/doi/abs/10.1145/3334480.3375175){:target="\_blank"}
 
 ## Contact
 
