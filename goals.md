@@ -8,7 +8,7 @@ sidebar:
   - extra: ""
     text: "Workshop: Sunday, 09-May-2021"
   - extra: ""
-    text: "Time: <br> 08:00-12:15 CET (UTC+01:00) <br> 16:00-22:15 JST"
+    text: "Time: <br> CET 14:00-18:15 (UTC+01:00) <br> JST 20:00-01:15 (next day) <br> EST 08:00-12:15"
   - extra: ""
     text: "<br>"
   - extra: ""
@@ -23,7 +23,7 @@ title: Workshop Goals
 <!-- ## MEEC challenges -->
 As a community of HCI researchers, we need to steer research addressing the slippery problem of elicitation and capture of emotions in the moment. Together with the Affective Computing community, we need to concretely define the collection and capture of valid emotion ground truths as an agenda and goal for the CHI community. Thus, the overarching goal of this second edition of the MEEC workshop is to establish lasting and meaningful connections across research communities concerned with affective computing, and to bring together students, researchers, and practitioners from various disciplines who are working on studying, designing, building, and/or evaluating the elicitation, capture, and prediction of human emotions.
 
-The workshop will be interactive (see [Workshop Program](program)), and will involve sketching out and deeply exposing the challenges of elicitation and capture. Specifically, we consider the following:
+The workshop will be interactive (see [Workshop Program](program)), and involves sketching out and deeply exposing the challenges of elicitation and capture. Specifically, we consider the following:
 
 **Elicitation:**
 - Which multi-modal (e.g., film, music) and multi-sensory (e.g., auditory, taste, olfactory) elicitation methods are most suitable for which contexts?

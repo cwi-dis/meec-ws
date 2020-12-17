@@ -8,7 +8,7 @@ sidebar:
   - extra: ""
     text: "Workshop: Sunday, 09-May-2021"
   - extra: ""
-    text: "Time: <br> 08:00-12:15 CET (UTC+01:00) <br> 16:00-22:15 JST"
+    text: "Time: <br> CET 14:00-18:15 (UTC+01:00) <br> JST 20:00-01:15 (next day) <br> EST 08:00-12:15"
   - extra: ""
     text: "<br>"
   - extra: ""
@@ -22,9 +22,9 @@ title: Workshop Program
 
 We plan for a half-day (4 hours 15 minutes) virtual workshop with paper submissions (2-9 pages) as position papers, demos, and/or posters focusing on novel concepts, perspectives, or works in progress.
 
-The workshop will take place primarily over Zoom, where we will additionally use Miro for collaborative (synchronous) brainstorming, and the Mozilla Hubs platform for facilitating social interaction before, during, and after the workshop. Given the four timezones to accommodate for (GMT+1, +9, +11, -8) between organizers and our keynote speaker, we aim to start early in the morning in Central European Time.
+The workshop will take place primarily over Zoom, where we will additionally use Miro for collaborative (synchronous) brainstorming, and the Mozilla Hubs platform for facilitating social interaction before, during, and after the workshop. Given the four timezones to accommodate for (GMT+1, +9, +11, -8) between organizers and our keynote speaker, we aim to start in the afternoon in Central European Time.
 
-Our initial proposal is: **Sunday May 9, 08:00-12:15 CET (UTC+01:00) - JST 16:00-22:15.**
+Our initial proposal is: **Sunday May 9, JST 20:00-01:15 (next day) / EST 08:00-12:15 / CET 14:00-18:15 (UTC+01:00).**
 
 ## Schedule
 
@@ -32,7 +32,7 @@ Our initial proposal is: **Sunday May 9, 08:00-12:15 CET (UTC+01:00) - JST 16:00
 
 ### 15 min. - Welcome: Introduce organizers, participants, workshop objectives and schedules
 
-### 30 min. - Keynote presentation by Prof. Mohammad Soleymani titled "Machine Understanding of Emotional Expressions"
+### 30 min. - Keynote presentation by Prof. Mohammad Soleymani titled "Machine Understanding of Emotional Expressions" [**will likely be shifted towards end of WS**]
 
 ### 10 min. - Q&A
 
