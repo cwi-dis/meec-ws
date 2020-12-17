@@ -32,7 +32,8 @@ Our initial proposal is: **Sunday May 9, JST 20:00-01:15 (next day) / EST 08:00-
 
 ### 15 min. - Welcome: Introduce organizers, participants, workshop objectives and schedules
 
-### 30 min. - Keynote presentation by Prof. Mohammad Soleymani titled "Machine Understanding of Emotional Expressions" [**will likely be shifted towards end of WS**]
+### 30 min. - Keynote presentation* by Prof. Mohammad Soleymani titled "Machine Understanding of Emotional Expressions"
+#### *<span style="color:red">will likely be shifted towards end of WS</span>
 
 ### 10 min. - Q&A
 
