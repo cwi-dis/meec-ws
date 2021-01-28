@@ -8,7 +8,7 @@ sidebar:
   - extra: ""
     text: "Workshop: Sunday, 09-May-2021"
   - extra: ""
-    text: "Time: <br> CET 14:00-18:15 (UTC+01:00) <br> JST 20:00-01:15 (next day) <br> EST 08:00-12:15" 
+    text: "Time: <br> CET 14:00-18:15 (UTC+01:00) <br> JST 20:00-01:15 (next day) <br> EST 08:00-12:15"
   - extra: ""
     text: "<br>"
   - extra: ""
@@ -43,7 +43,7 @@ We seek contributions across disciplines that explore how emotions can be natura
 
 
 ## How to Participate
-We invite position papers, posters, and demos (2-9 pages, including references) that describe/showcase emotion elicitation and/or capture methods. Submissions will be peer-reviewed by 2 peers, and selected on their potential to spark discussion. Submissions should be prepared according to the `ACM Master Article template` (single column) (see [CHI Publication Formats page](https://chi2021.acm.org/for-authors/chi-publication-formats){:target="\_blank"}) and submitted in PDF through [Easychair](https://easychair.org/conferences/?conf=meec2021){:target="\_blank"}. Accepted submissions will be made available on the workshop website. At least one author must register for the workshop and one day of the conference, with (TBD) special rates for remote attendance.
+We invite position papers, posters, and demos (2-9 pages, including references) that describe/showcase emotion elicitation and/or capture methods. Submissions will be peer-reviewed by 2 peers, and selected on their potential to spark discussion. Submissions should be prepared according to the `ACM Master Article template` (single column) (see [CHI Publication Formats page](https://chi2021.acm.org/for-authors/chi-publication-formats){:target="\_blank"}) and submitted in PDF through [Easychair](https://easychair.org/conferences/?conf=meec2021){:target="\_blank"}. Accepted submissions will be made available on the workshop website. At least one author must register for the workshop ($30) and one day of the conference ($100 for early ACM/SIGCHI member). See [CHI 2021 blog post on registration rates](https://chi2021.acm.org/information/4702.html) for details. 
 
 [Submit [EasyChair]](https://easychair.org/conferences/?conf=meec2021){: .btn .btn--warning}{:target="\_blank"}
 
