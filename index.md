@@ -30,7 +30,7 @@ title: 2nd Momentary Emotion Elicitation & Capture (MEEC)
       url: "https://easychair.org/conferences/?conf=meec2020"
        -->
 The second half-day virtual workshop on Momentary Emotion Elicitation and Capture (MEEC) is to be held on Sunday, May 9th, 2021 during the [ACM CHI 2021 Conference](https://chi2021.acm.org/){:target="\_blank"} virtually.
-<br> <span style="color:orange"> Deadline extended to Friday, Feb 26! </span> <br><br>
+<br><br> <span style="color:orange"> Deadline extended to Friday, Feb 26! </span> <br><br>
 <a href="https://chi2021.acm.org/" target="\_blank"><img src="./assets/imgs/chi2021.png" width="120"></a>
 
 
