@@ -8,7 +8,7 @@ header:
 sidebar:
   - title: "Important Dates:"
     image_alt: "in the moment emotions."
-    text: "Papers Deadline: 21-Feb-2021"
+    text: "Papers Deadline: 26-Feb-2021"
   - extra: ""
     text: "Papers Decisions: 7-Mar-2021"
   - extra: ""
@@ -30,7 +30,7 @@ title: 2nd Momentary Emotion Elicitation & Capture (MEEC)
       url: "https://easychair.org/conferences/?conf=meec2020"
        -->
 The second half-day virtual workshop on Momentary Emotion Elicitation and Capture (MEEC) is to be held on Sunday, May 9th, 2021 during the [ACM CHI 2021 Conference](https://chi2021.acm.org/){:target="\_blank"} virtually.
-<br><br>
+<br><br> <span style="color:orange"> Deadline extended to Friday, Feb 26! </span>
 <a href="https://chi2021.acm.org/" target="\_blank"><img src="./assets/imgs/chi2021.png" width="120"></a>
 
 

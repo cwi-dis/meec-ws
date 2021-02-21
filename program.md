@@ -2,7 +2,7 @@
 sidebar:
   - title: "Important Dates:"
     image_alt: "in the moment emotions."
-    text: "Papers Deadline: 21-Feb-2021"
+    text: "Papers Deadline: 26-Feb-2021"
   - extra: ""
     text: "Papers Decisions: 7-Mar-2021"
   - extra: ""
