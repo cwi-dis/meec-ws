@@ -30,7 +30,7 @@ title: 2nd Momentary Emotion Elicitation & Capture (MEEC)
       url: "https://easychair.org/conferences/?conf=meec2020"
        -->
 The second half-day virtual workshop on Momentary Emotion Elicitation and Capture (MEEC) is to be held on Sunday, May 9th, 2021 during the [ACM CHI 2021 Conference](https://chi2021.acm.org/){:target="\_blank"} virtually.
-<br><br> <span style="color:orange"> Deadline extended to Friday, Feb 26! </span> <br><br>
+<br><br>
 <a href="https://chi2021.acm.org/" target="\_blank"><img src="./assets/imgs/chi2021.png" width="120"></a>
 
 
@@ -51,6 +51,15 @@ We invite position papers, posters, and demos (2-9 pages, including references) 
 
 
 [Submit [EasyChair]](https://easychair.org/conferences/?conf=meec2021){: .btn .btn--warning}{:target="\_blank"}
+
+## Accessibility
+
+Message from CHI 2021 WS chairs:
+
+Mar 2 (update) - Dear potential delegates, please note the workshop organisers are in discussion with the overall workshops chairs (who are discussing with the Accessibility Chairs and the General Chairs) for ACM CHI 2021. Please note the current set of technologies listed should not be a barrier to your participation.
+
+Please apply to attend and we will discuss your accessibility needs with you. As chairs for this particular workshop we are committed to being inclusive so we will work with our delegates to ensure participation for all as CHI 2021 is for all. This might mean we drop our plans to use any particular technology if we cannot find a suitable way to make the experience for delegates inclusive.
+
 
 ## Organization
 
