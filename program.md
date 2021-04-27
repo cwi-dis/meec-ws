@@ -8,7 +8,7 @@ sidebar:
   - extra: ""
     text: "Workshop: Sunday, 09-May-2021"
   - extra: ""
-    text: "Time: <br> CET 14:00-18:15 (UTC+01:00) <br> JST 20:00-01:15 (next day) <br> EST 08:00-12:15"
+    text: "Time: <br> CEST 15:00-19:15 (UTC+02:00) <br> JST 22:00-02:15 (next day) <br> PDT 06:00-10:15"
   - extra: ""
     text: "<br>"
   - extra: ""
@@ -22,9 +22,9 @@ title: Workshop Program
 
 We plan for a half-day (4 hours 15 minutes) virtual workshop with paper submissions (2-9 pages) as position papers, demos, and/or posters focusing on novel concepts, perspectives, or works in progress.
 
-The workshop will take place primarily over Zoom, where we will additionally use Miro for collaborative (synchronous) brainstorming. We will use Slack for offline interaction (before, during, after WS) so that we also maintain contact. We may further consider using Mozilla Hubs or gather.town for the coffee breaks in the workshop. Given the four timezones to accommodate for (GMT+1, +9, +11, -8) between organizers and our keynote speaker, we aim to start in the afternoon in Central European Time.
+The workshop will take place primarily over Zoom, where we will additionally use Miro for collaborative (synchronous) brainstorming. We will use Slack for offline interaction (before, during, after WS) so that we also maintain contact. We may further consider using Mozilla Hubs or gather.town for the coffee breaks in the workshop. Given the four timezones to accommodate between organizers and our keynote speaker, we aim to start in the afternoon in Central European Time.
 
-Our workshop timing: **Sunday May 9, JST 20:00-01:15 (next day) / EST 08:00-12:15 / CET 14:00-18:15 (UTC+01:00).**
+Our workshop timing: **Sunday May 9, JST 22:00-02:15 (next day) / PDT 06:00-10:15 / CEST 15:00-19:15 (UTC+02:00).**
 
 
 ## Schedule
@@ -57,7 +57,7 @@ Our workshop timing: **Sunday May 9, JST 20:00-01:15 (next day) / EST 08:00-12:1
 ### <span style="color:orange"> 15 min. - ***Break*** </span>
 
 
-### 30 min. - Keynote presentation by Prof. Mohammad Soleymani titled "Machine Understanding of Emotional Expressions" [08:15 PST]
+### 30 min. - Keynote presentation by Prof. Mohammad Soleymani titled "Machine Understanding of Emotional Expressions" [09:15 PDT]
  <!-- / 11:15 EST / 17:15 CET / 00:15 JST (+1 day)) -->
 
 ### 10 min. - Q&A

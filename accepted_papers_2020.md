@@ -8,7 +8,7 @@ sidebar:
   - extra: ""
     text: "Workshop: Sunday, 09-May-2021"
   - extra: ""
-    text: "Time: <br> 08:00-12:15 CET (UTC+01:00) <br> 16:00-22:15 JST"
+    text: "Time: <br> CEST 15:00-19:15 (UTC+02:00) <br> JST 22:00-02:15 (next day) <br> PDT 06:00-10:15"
   - extra: ""
     text: "<br>"
   - extra: ""
