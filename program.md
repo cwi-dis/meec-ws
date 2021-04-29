@@ -22,7 +22,7 @@ title: Workshop Program
 
 We plan for a half-day (4 hours 15 minutes) virtual workshop with paper submissions (2-9 pages) as position papers, demos, and/or posters focusing on novel concepts, perspectives, or works in progress.
 
-The workshop will take place primarily over Zoom, where we will additionally use Miro for collaborative (synchronous) brainstorming. We will use Slack for offline interaction (before, during, after WS) so that we also maintain contact. We may further consider using Mozilla Hubs or gather.town for the coffee breaks in the workshop. Given the four timezones to accommodate between organizers and our keynote speaker, we aim to start in the afternoon in Central European Time.
+The workshop will take place primarily over Zoom, where we will additionally use Miro for collaborative (synchronous) brainstorming. We will use Slack for offline interaction (before, during, after WS) so that we also maintain contact. Given the four timezones to accommodate between organizers and our keynote speaker, we aim to start in the afternoon in Central European Summer Time.
 
 Our workshop timing: **Sunday May 9, JST 22:00-02:15 (next day) / PDT 06:00-10:15 / CEST 15:00-19:15 (UTC+02:00).**
 
@@ -36,7 +36,7 @@ Our workshop timing: **Sunday May 9, JST 22:00-02:15 (next day) / PDT 06:00-10:1
 ### 30 min. - Pitch / Flash presentations for Papers, Demos, Posters. Prepared in advance in Google Slides or as pre-recorded video presentations
 
 
-### <span style="color:orange"> 30 min. - Break (free-form discussion on Mozilla Hubs or gather.town) </span>
+### <span style="color:orange"> 30 min. - Break (open free-form discussion on Zoom) </span>
 
 
 ### 5 min. - Join Pre-assigned Groups (annotation or sensing) in Zoom breakout rooms
