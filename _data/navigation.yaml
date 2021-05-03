@@ -3,11 +3,13 @@ main:
     url: /index.html
   - title: "goals"
     url: /goals.html
-  - title: "call for papers"
+  - title: "cfp"
     url: /callforpapers.html
   - title: "program"
     url: /program.html
   - title: "organizers"
     url: /committee.html
+  - title: "papers"
+    url: /accepted_papers_2021.html
   - title: "meec (2020)"
     url: /accepted_papers_2020.html
