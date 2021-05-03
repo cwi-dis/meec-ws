@@ -30,7 +30,8 @@ List of MEEC (2021) accepted papers below:
 - **What’s In a Name: Issues in Triangulating Self-Reported Emotion to Establish Trustable Labels.**
 Xi Laura Cang (University of British Columbia), Qianqian Feng (University of British Columbia), and Karon E. MacLean (University of British Columbia). [pdf](./papers/2021/MEEC_2021_paper_2.pdf)
 
-- **A Valid Self-Report is Never Late, Nor is it Early: On Considering and "Right" Temporal Distance for Assessing Emotional Experience.** Bernd Dudzik (Delft University of Technology) and Joost Broekens (Leiden University). [pdf](./papers/2021/MEEC_2021_paper_3.pdf)
+- **A Valid Self-Report is Never Late, Nor is it Early: On Considering
+the "Right" Temporal Distance for Assessing Emotional Experience.** Bernd Dudzik (Delft University of Technology) and Joost Broekens (Leiden University). [pdf](./papers/2021/MEEC_2021_paper_3.pdf)
 
 - **Elicitation of Emotional Responses to Flying Robots with Facial Expressions.** Viviane Herdel (Magic Lab; Ben Gurion University of the Negev), Anastasia Kuzminykh (University of Toronto), Andrea Hildebrandt (University of Oldenburg) and Jessica R. Cauchard (Magic Lab; Ben Gurion University of the Negev). [pdf](./papers/2021/MEEC_2021_paper_4.pdf)
 
