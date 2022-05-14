@@ -2,26 +2,26 @@
 sidebar:
   - title: "Important Dates:"
     image_alt: "in the moment emotions."
-    text: "Papers Deadline: 26-Feb-2021"
+    text: "Papers Deadline: X-May-2022"
   - extra: ""
-    text: "Papers Decisions: 7-Mar-2021"
+    text: "Papers Decisions: X-Jun-2022"
   - extra: ""
-    text: "Workshop: Sunday, 09-May-2021"
+    text: "Workshop: Someday, X-Oct-2022"
   - extra: ""
-    text: "Time: <br> CEST 15:00-19:15 (UTC+02:00) <br> JST 22:00-02:15 (next day) <br> PDT 06:00-10:15"
+    text: "Time: <br> CEST XX:00-XX:00 (UTC+XX:00) <br> JST XX:00-XX:00 <br> PDT XX:00-XX:00"
   - extra: ""
     text: "<br>"
   - extra: ""
-    text: "Location: Virtual"
+    text: "Location: Hybrid / Virtual"
   - extra: ""
-    text: "Contact: [aea@cwi.nl](mailto:aea@cwi.nl)"
+    text: "Contact: [perusquia@ieee.org](mailto:perusquia@ieee.org)"
 
 layout: single
 title: Workshop Goals
 ---
 
 <!-- ## MEEC challenges -->
-As a community of HCI researchers, we need to steer research addressing the slippery problem of elicitation and capture of emotions in the moment. Together with the Affective Computing community, we need to concretely define the collection and capture of valid emotion ground truths as an agenda and goal for the CHI community. Thus, the overarching goal of this second edition of the MEEC workshop is to establish lasting and meaningful connections across research communities concerned with affective computing, and to bring together students, researchers, and practitioners from various disciplines who are working on studying, designing, building, and/or evaluating the elicitation, capture, and prediction of human emotions.
+As a community of HCI and Affective Computing researchers, we need to steer research addressing the slippery problem of elicitation and capture of emotions in the moment. Together with the HCI and Affective Computing community, we need to concretely define the collection and capture of valid emotion ground truths as an agenda and goal for our respective communities. Thus, the overarching goal of this second edition of the MEEC workshop is to establish lasting and meaningful connections across research communities concerned with affective computing, and to bring together students, researchers, and practitioners from various disciplines who are working on studying, designing, building, and/or evaluating the elicitation, capture, and prediction of human emotions.
 
 The workshop will be interactive (see [Workshop Program](program)), and involves sketching out and deeply exposing the challenges of elicitation and capture. Specifically, we consider the following:
 
@@ -43,4 +43,6 @@ The workshop will be interactive (see [Workshop Program](program)), and involves
 - How do we design better remote emotion capture techniques during times of minimal face-to-face interaction (cf., COVID-19 pandemic)?
 
 
-After the workshop, we expect to provide a summary report to be published on the website, a potential ACM Interactions contribution, and put the proceedings online. See last year's MEEC 2020 workshop proceedings [here](accepted_papers_2020).
+<!-- After the workshop, we expect to provide a summary report to be published on the website, a potential ACM Interactions contribution, and put the proceedings online.  -->
+
+See previous MEEC workshop proceedings [here (2021)](accepted_papers_2021) and [here (2020)](accepted_papers_2020).

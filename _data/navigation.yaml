@@ -9,7 +9,7 @@ main:
     url: /program.html
   - title: "organizers"
     url: /committee.html
-  - title: "papers"
-    url: /accepted_papers_2021.html
   - title: "meec (2020)"
     url: /accepted_papers_2020.html
+  - title: "meec (2021)"
+    url: /accepted_papers_2021.html
