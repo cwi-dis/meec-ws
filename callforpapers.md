@@ -43,7 +43,9 @@ We seek contributions across disciplines that explore how emotions can be natura
 
 
 ## How to Participate
-TBA
+
+We invite position papers, research results papers, and demos (2-9 pages, including references) that describe/showcase emotion elicitation and/or capture methods. Submissions will be peer-reviewed by two peers and selected on their potential to spark discussion. Submissions should be prepared according to the IEEE conference template and submitted in PDF through Easychair. Accepted submissions will be made available on the workshop proceedings of ACII2022. At least one author must register for the workshop and one day of the conference, with (TBD) special rates for remote attendance.
+
 
 [Submit [EasyChair]](https://easychair.org/conferences/?conf=meec2022){: .btn .btn--warning}{:target="\_blank"}
 

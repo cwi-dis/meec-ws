@@ -62,11 +62,11 @@ Our workshop timing: **Sunday May 9, JST 22:00-02:15 (next day) / PDT 06:00-10:1
 
 ### 30 min. - Keynote presentation by Prof. Mohammad Soleymani titled "Machine Understanding of Emotional Expressions" [09:15 PDT]
  <!-- / 11:15 EST / 17:15 CET / 00:15 JST (+1 day)) -->
-
+<!--
 ### 10 min. - Q&A
 
 
 ### <span style="color:orange"> 5 min. - ***Break*** </span>
 
 
-### 15 min. - Wrap Up: Summarize the workshop, actions on follow-up activities, and take virtual group photos -->
+### 15 min. - Wrap Up: Summarize the workshop, actions on follow-up activities, and take virtual group photos  -->
