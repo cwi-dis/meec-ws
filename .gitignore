@@ -11,3 +11,4 @@ Gemfile.lock
 !./_includes/footer.html
 !./_includes/sidebar.html
 !./_includes/footer/custom.html
+.DS_Store
