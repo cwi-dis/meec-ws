@@ -41,8 +41,8 @@ Recognizing human emotions and responding appropriately has the potential to rad
 In this 3rd hybrid workshop, we address this challenge of Momentary Emotion Elicitation and Capture (MEEC) from individuals, continuously and in real-time, without adversely affecting user experience. The goals for this third edition of the hybrid ACII 2022 workshop are:
 
 1. Have participant talks and an inspirational keynote presentation
-2. Ideate elicitation, sensing, and annotation techniques
-3. Create mappings of when to apply an elicitation method
+2. Brainstorm on outstanding challenges to assess emotion dynamics with high temporal granularity
+3. Propose a roadmap to address identified challenges
 
 
 ## How to Participate
