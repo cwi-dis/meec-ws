@@ -28,7 +28,7 @@ Yomna Abdelrahman is a Postdoctoral Researcher at the Bundeswehr University Muni
 
 ---
 
-![smiley](./assets/imgs/Lewis.jpeg){:height="80px" width="80px"} &nbsp; **Lewis Chuang}**{:style="color: black"} - Chemnitz University of Technology, Germany
+![smiley](./assets/imgs/Lewis.jpeg){:height="80px" width="80px"} &nbsp; **Lewis Chuang**{:style="color: black"} - Chemnitz University of Technology, Germany
 
 Monica Perusquía-Hernández is a Professor and holds the chair for "Humans and Technology" at the Chemnitz University for Technology, Germany. He received his PhD from the University of Tuebingen in behavioral neuroscience and employs task analyses, psychophysiology, psychophysics, and applied computational modeling to understand how humans interact with digital technologies and automation. He is on the executive board for the Engineering Psychology section of the German Society for Psychology and organized the Neuroergonomics Conference in 2021. Website: [https://lewischuang.com/](https://lewischuang.com/){:target="\_blank"}
 
@@ -46,13 +46,13 @@ Abdallah El Ali is a research scientist at the [Distributed & Interactive System
 
 ---
 
-![smiley](./assets/imgs/Girard.jpg){:height="80px" width="80px"} &nbsp; **Jeffrey Girard**{:style="color: black"} - University of Kansas, United States
+![smiley](./assets/imgs/Girard.jpeg){:height="80px" width="80px"} &nbsp; **Jeffrey Girard**{:style="color: black"} - University of Kansas, United States
 
 Jeffrey Girard is an assistant professor at the University of Kansas in the department of psychology. He studies how emotions are expressed through verbal and nonverbal behaviour, as well as how interpersonal communication is influenced by individual differences (e.g., personality and mental health) and social factors (e.g., culture and context). His work draws insights and tools from various areas of social science, computer science, statistics, and medicine. Website: [https://jmgirard.com/](https://jmgirard.com/){:target="\_blank"}
 
 ---
 
-![smiley](./assets/imgs/Regan.jpeg){:height="80px" width="80px"} &nbsp; **Regan Mandryk**{:style="color: black"} - CWI, Amsterdam
+![smiley](./assets/imgs/Regan.png){:height="80px" width="80px"} &nbsp; **Regan Mandryk**{:style="color: black"} - University of Saskatchewan, Canada
 
 Regan Mandryk is a  Professor and Tier 1 Canada Research Chair,
 Digital Gaming Technologies and Experiences, at the Department of Computer Science, University of Saskatchewan, Canada. She earned her Bachelor of Science degree from the University of Winnipeg. She completed her Master's degree and PhD at Simon Fraser University in British Columbia. Her PhD dissertation applied physiological measures to model user emotion in interactive play environments. She then completed post-doctoral fellowships at the University of British Columbia and Dalhousie University. Website: [https://hci.usask.ca/](https://hci.usask.ca/){:target="\_blank"}
