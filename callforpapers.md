@@ -1,20 +1,22 @@
 ---
-sidebar:
-  - title: "Important Dates:"
-    image_alt: "in the moment emotions."
-    text: "Papers Deadline: X-May-2022"
-  - extra: ""
-    text: "Papers Decisions: X-Jun-2022"
-  - extra: ""
-    text: "Workshop: Someday, X-Oct-2022"
-  - extra: ""
-    text: "Time: <br> CEST XX:00-XX:00 (UTC+XX:00) <br> JST XX:00-XX:00 <br> PDT XX:00-XX:00"
-  - extra: ""
-    text: "<br>"
-  - extra: ""
-    text: "Location: Hybrid / Virtual"
-  - extra: ""
-    text: "Contact: [perusquia@ieee.org](mailto:perusquia@ieee.org)"
+  sidebar:
+    - title: "Important Dates:"
+      image_alt: "in the moment emotions."
+      text: "Papers Deadline: 8-July-2022"
+    - extra: ""
+      text: "Papers Decisions: 31-July-2022"
+    - extra: ""
+      text: "Camera-Ready Deadline: 15-August-2022"
+    - extra: ""
+      text: "Workshop: Monday, 17-Oct-2022"
+    - extra: ""
+      text: "Time: <br> CEST XX:00-XX:00 (UTC+XX:00) <br> JST XX:00-XX:00 <br> PDT XX:00-XX:00"
+    - extra: ""
+      text: "<br>"
+    - extra: ""
+      text: "Location: Hybrid / Virtual"
+    - extra: ""
+      text: "Contact: [perusquia@ieee.org](mailto:perusquia@ieee.org)"
 
 layout: single
 title: Call for Papers
@@ -22,8 +24,7 @@ title: Call for Papers
 ---
 <!-- {::options auto_ids="false" /} -->
 
-
-To train machines to sensibly detect and recognize human emotions, we need valid emotion ground truths. A fundamental challenge here is the momentary emotion elicitation and capture (MEEC) from individuals continuously and in real-time, without adversely affecting user experience. In this half-day virtual CHI 2021 workshop, we will (1) have participant talks and a keynote presentation (2) ideate elicitation, sensing, and annotation techniques (3) create mappings of when to apply an elicitation method.
+To train machines to detect and recognise human emotions sensibly, we need valid emotion ground truths that consider dynamic changes over time. A fundamental challenge here is the momentary emotion elicitation and capture (MEEC) from groups and individuals continuously and in real-time, without adversely affecting user experience. In this half-day virtual ACII 2022 workshop, we will (1) have a keynote presentation about ambulatory sampling methods by Prof. Ulrich Ebner-Priemer from the Karlsruhe Institute of Technology; (2) have participant talks showcasing their submissions; (3) brainstorm on techniques to understand dynamic changes given different temporal measurement resolutions; and (4) create a battery of methods relevant to diverse affective contexts.
 
 We seek contributions across disciplines that explore how emotions can be naturally elicited and captured in the moment. Topics include:
 
@@ -48,6 +49,7 @@ We invite position papers, research results papers, and demos (2-9 pages, includ
 
 
 [Submit [EasyChair]](https://easychair.org/conferences/?conf=meec2022){: .btn .btn--warning}{:target="\_blank"}
+[Download [Latex/Word Templates]](https://drive.google.com/drive/folders/1m2_rsKpU3tUBKzcT4l9u92cK0-mU-bOY?usp=sharing){: .btn .btn--warning}{:target="\_blank"}
 
 ## Contact
 
