@@ -8,11 +8,13 @@ header:
 sidebar:
   - title: "Important Dates:"
     image_alt: "in the moment emotions."
-    text: "Papers Deadline: X-May-2022"
+    text: "Papers Deadline: 8-July-2022"
   - extra: ""
-    text: "Papers Decisions: X-Jun-2022"
+    text: "Papers Decisions: 31-July-2022"
   - extra: ""
-    text: "Workshop: Someday, X-Oct-2022"
+    text: "Camera-Ready Deadline: 15-August-2022"
+  - extra: ""
+    text: "Workshop: Monday, 17-Oct-2022"
   - extra: ""
     text: "Time: <br> CEST XX:00-XX:00 (UTC+XX:00) <br> JST XX:00-XX:00 <br> PDT XX:00-XX:00"
   - extra: ""
@@ -29,7 +31,7 @@ title: 3rd Momentary Emotion Elicitation & Capture (MEEC)
     - label: "Submit [EasyChair]"
       url: "https://easychair.org/conferences/?conf=meec2020"
        -->
-The third hybrid workshop on Momentary Emotion Elicitation and Capture (MEEC) is to be held on XX, Oct XX, 2022 during the [Affective Computing and Intelligent Interaction (ACII) 2022 Conference](https://acii-conf.net/2022/){:target="\_blank"} in hybrid form.
+The third hybrid workshop on Momentary Emotion Elicitation and Capture (MEEC) is to be held on Oct 17, 2022 during the [Affective Computing and Intelligent Interaction (ACII) 2022 Conference](https://acii-conf.net/2022/){:target="\_blank"} in hybrid form.
 <br><br>
 <a href="https://acii-conf.net/2022" target="\_blank"><img src="./assets/imgs/acii2022-banner-final.png" width="300"></a>
 
