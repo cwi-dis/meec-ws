@@ -30,7 +30,7 @@ Yomna Abdelrahman is a Postdoctoral Researcher at the Bundeswehr University Muni
 
 ![smiley](./assets/imgs/Lewis.jpeg){:height="80px" width="80px"} &nbsp; **Lewis Chuang**{:style="color: black"} - Chemnitz University of Technology, Germany
 
-Monica Perusquía-Hernández is a Professor and holds the chair for "Humans and Technology" at the Chemnitz University for Technology, Germany. He received his PhD from the University of Tuebingen in behavioral neuroscience and employs task analyses, psychophysiology, psychophysics, and applied computational modeling to understand how humans interact with digital technologies and automation. He is on the executive board for the Engineering Psychology section of the German Society for Psychology and organized the Neuroergonomics Conference in 2021. Website: [https://lewischuang.com/](https://lewischuang.com/){:target="\_blank"}
+Lewis Chuang is a Professor and holds the chair for "Humans and Technology" at the Chemnitz University for Technology, Germany. He received his PhD from the University of Tuebingen in behavioral neuroscience and employs task analyses, psychophysiology, psychophysics, and applied computational modeling to understand how humans interact with digital technologies and automation. He is on the executive board for the Engineering Psychology section of the German Society for Psychology and organized the Neuroergonomics Conference in 2021. Website: [https://lewischuang.com/](https://lewischuang.com/){:target="\_blank"}
 
 ---
 
