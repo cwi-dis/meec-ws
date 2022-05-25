@@ -70,7 +70,8 @@ Please apply to attend and we will discuss your accessibility needs with you. As
 <a href="http://www.naist.jp/en/"><img src="./assets/imgs/logos/naist.png" width="120"></a> &nbsp;
 <a href="https://www.dis.cwi.nl/"><img src="./assets/imgs/logos/cwi.png" width="140"></a> &nbsp;
 <a href="https://ict.usc.edu/"><img src="./assets/imgs/logos/usc.jpeg" width="160"></a> &nbsp;
-<a href="https://uclic.ucl.ac.uk/"><img src="./assets/imgs/logos/uclic.png" width="160"></a> &nbsp;
+<!-- <a href="https://uclic.ucl.ac.uk/"><img src="./assets/imgs/logos/uclic.png" width="160"></a> &nbsp; -->
+<a href="https://www.ultraleap.com/"><img src="./assets/imgs/logos/ultraleap-logo.jpeg" width="160"></a> &nbsp;
 <a href="https://www.tu-chemnitz.de/index.html.en"><img src="./assets/imgs/logos/tuchemnitz.png" width="160"></a> &nbsp;
 <a href="https://ku.edu/"><img src="./assets/imgs/logos/uok.png" width="120"></a> &nbsp;
 <a href="https://www.usask.ca/"><img src="./assets/imgs/logos/uos.png" width="110"></a> &nbsp;
