@@ -14,7 +14,7 @@ sidebar:
   - extra: ""
     text: "<br>"
   - extra: ""
-    text: "Location: Hybrid / Virtual"
+    text: "Location: Nara, Japan / Virtual"
   - extra: ""
     text: "Contact: [perusquia@ieee.org](mailto:perusquia@ieee.org)"
 

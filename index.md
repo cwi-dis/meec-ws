@@ -20,7 +20,7 @@ sidebar:
   - extra: ""
     text: "<br>"
   - extra: ""
-    text: "Location: Hybrid / Virtual"
+    text: "Location: Nara, Japan / Virtual"
   - extra: ""
     text: "Contact: [perusquia@ieee.org](mailto:perusquia@ieee.org)"
 
@@ -49,7 +49,7 @@ In this 3rd hybrid workshop, we address this challenge of Momentary Emotion Elic
 
 ## How to Participate
 
-We invite position papers, research results papers, and demos (2-9 pages, including references) that describe/showcase emotion elicitation and/or capture methods. Submissions will be peer-reviewed by two peers and selected on their potential to spark discussion. Submissions should be prepared according to the IEEE conference template and submitted in PDF through Easychair. Accepted submissions will be made available on the workshop proceedings of ACII2022. At least one author must register for the workshop and one day of the conference, with (TBD) special rates for remote attendance.
+We invite position papers, research results papers, and demos (2-9 pages, including references) that describe/showcase emotion elicitation and/or capture methods. Submissions will be peer-reviewed by two peers and selected on their potential to spark discussion. Submissions should be prepared according to the IEEE conference template and submitted in PDF through Easychair. Accepted submissions will be made available as part of the workshop proceedings of ACII2022. At least one author must register for the workshop and one day of the conference, with (TBD) special rates for remote attendance.
 
 
 <!-- We invite position papers, posters, and demos (2-9 pages, including references) that describe/showcase emotion elicitation and/or capture methods. Submissions should be single blind (i.e., not anonymized). Each submission will be peer-reviewed by 2 peers, and selected on their potential to spark discussion. Submissions should be prepared according to the `ACM Master Article template` (single column) (see [CHI Publication Formats page](https://chi2021.acm.org/for-authors/chi-publication-formats){:target="\_blank"}) and submitted in PDF through [Easychair](https://easychair.org/conferences/?conf=meec2021){:target="\_blank"}. Accepted submissions will be made available on the workshop website. At least one author must register for the workshop ($30) and one day of the conference ($100 for early ACM/SIGCHI member). See [CHI 2021 blog post on registration rates](https://chi2021.acm.org/information/4702.html) for details. -->

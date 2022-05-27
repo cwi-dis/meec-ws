@@ -14,7 +14,7 @@ sidebar:
   - extra: ""
     text: "<br>"
   - extra: ""
-    text: "Location: Hybrid / Virtual"
+    text: "Location: Nara, Japan / Virtual"
   - extra: ""
     text: "Contact: [perusquia@ieee.org](mailto:perusquia@ieee.org)"
 
@@ -23,7 +23,7 @@ title: Workshop Goals
 ---
 
 <!-- ## MEEC challenges -->
-As a community of HCI and Affective Computing researchers, we need to steer research addressing the slippery problem of elicitation and capture of emotions in the moment. Together with the HCI and Affective Computing community, we need to concretely define the collection and capture of valid emotion ground truths as an agenda and goal for our respective communities. Thus, the overarching goal of this second edition of the MEEC workshop is to establish lasting and meaningful connections across research communities concerned with affective computing, and to bring together students, researchers, and practitioners from various disciplines who are working on studying, designing, building, and/or evaluating the elicitation, capture, and prediction of human emotions.
+As a community of HCI and Affective Computing researchers, we need to steer research addressing the slippery problem of elicitation and capture of emotions in the moment. Together with the HCI and Affective Computing community, we need to concretely define the collection and capture of valid emotion ground truths as an agenda and goal for our respective communities. Thus, the overarching goal of this third edition of the MEEC workshop is to establish lasting and meaningful connections across research communities concerned with affective computing, and to bring together students, researchers, and practitioners from various disciplines who are working on studying, designing, building, and/or evaluating the elicitation, capture, and prediction of human emotions.
 
 The workshop will be interactive (see [Workshop Program](program)), and involves sketching out and deeply exposing the challenges of elicitation and capture. Specifically, we consider the following:
 
