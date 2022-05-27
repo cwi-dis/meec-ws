@@ -10,7 +10,7 @@ sidebar:
   - extra: ""
     text: "Workshop: Monday, 17-Oct-2022"
   - extra: ""
-    text: "Time: <br> CEST XX:00-XX:00 (UTC+XX:00) <br> JST XX:00-XX:00 <br> PDT XX:00-XX:00"
+    text: "Time: <br> CEST 06:00-11:00 <br> JST 13:00-18:00 <br> PDT 21:00-02:00"
   - extra: ""
     text: "<br>"
   - extra: ""
