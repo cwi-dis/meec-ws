@@ -36,7 +36,7 @@ Lewis Chuang is a Professor and holds the chair for "Humans and Technology" at t
 
 ![smiley](./assets/imgs/Patricia.jpeg){:height="80px" width="80px"} &nbsp; **Patricia Cornelio**{:style="color: black"} - Ultraleap, United Kingdom
 
-Patricia Cornelio is a research engineer at Ultraleap where she coordinates a 4-year R\&D Future Leader Fellowship program. Patricia is interested in multisensory experiences with a focus on touch and smell using mid-air haptic technology, she is passionate about the human senses and the role they play in human-machine integration. Website: [https://patricia-cornelio.com/](https://patricia-cornelio.com/){:target="\_blank"}
+Patricia Cornelio is a research engineer at Ultraleap where she coordinates a 4-year R&D Future Leader Fellowship program. Patricia is interested in multisensory experiences with a focus on touch and smell using mid-air haptic technology, she is passionate about the human senses and the role they play in human-machine integration. Website: [https://patricia-cornelio.com/](https://patricia-cornelio.com/){:target="\_blank"}
 
 ---
 
