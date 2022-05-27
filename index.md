@@ -56,6 +56,7 @@ We invite position papers, research results papers, and demos (2-9 pages, includ
 
 
 [Submit [EasyChair]](https://easychair.org/conferences/?conf=meec2022){: .btn .btn--warning}{:target="\_blank"}
+[Download [Latex/Word Templates]](https://drive.google.com/drive/folders/1m2_rsKpU3tUBKzcT4l9u92cK0-mU-bOY?usp=sharing){: .btn .btn--warning}{:target="\_blank"}
 
 ## Accessibility
 
