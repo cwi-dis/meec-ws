@@ -2,9 +2,11 @@
 sidebar:
   - title: "Important Dates:"
     image_alt: "in the moment emotions."
-    text: "Papers Deadline: X-May-2022"
+    text: "Papers Deadline: 8-July-2022"
   - extra: ""
-    text: "Papers Decisions: X-Jun-2022"
+    text: "Papers Decisions: 31-July-2022"
+  - extra: ""
+    text: "Camera-Ready Deadline: 15-August-2022"
   - extra: ""
     text: "Workshop: Monday, 17-Oct-2022"
   - extra: ""
@@ -17,7 +19,7 @@ sidebar:
     text: "Contact: [perusquia@ieee.org](mailto:perusquia@ieee.org)"
 
 layout: single
-title: Organizers & Program Committee
+title: Call for Papers
 ---
 
 <!-- {::options auto_ids="false" /} -->
