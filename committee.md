@@ -6,7 +6,7 @@ sidebar:
   - extra: ""
     text: "Papers Decisions: 31-July-2022"
   - extra: ""
-    text: "Camera-Ready Deadline: 15-August-2022"
+    text: "Camera-Ready Deadline: 10-August-2022"
   - extra: ""
     text: "Workshop: Monday, 17-Oct-2022"
   - extra: ""
