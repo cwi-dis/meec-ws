@@ -8,11 +8,11 @@ header:
 sidebar:
   - title: "Important Dates:"
     image_alt: "in the moment emotions."
-    text: "Papers Deadline: 8-July-2022"
+    text: "Papers Deadline: 22-July-2022"
   - extra: ""
-    text: "Papers Decisions: 31-July-2022"
+    text: "Papers Decisions: 5-August-2022"
   - extra: ""
-    text: "Camera-Ready Deadline: 10-August-2022"
+    text: "Camera-Ready Deadline: 12-August-2022"
   - extra: ""
     text: "Workshop: Monday, 17-Oct-2022"
   - extra: ""
@@ -31,6 +31,9 @@ title: 3rd Momentary Emotion Elicitation & Capture (MEEC)
     - label: "Submit [EasyChair]"
       url: "https://easychair.org/conferences/?conf=meec2020"
        -->
+
+**Submission deadline extended to July 22nd, 23:59 AoE**
+
 The third workshop on Momentary Emotion Elicitation and Capture (MEEC) is to be held on Oct 17, 2022 during the [Affective Computing and Intelligent Interaction (ACII) 2022 Conference](https://acii-conf.net/2022/){:target="\_blank"} in hybrid form.
 <br><br>
 <a href="https://acii-conf.net/2022" target="\_blank"><img src="./assets/imgs/acii2022-banner-final.png" width="300"></a>
@@ -64,7 +67,7 @@ We invite position papers, research results papers, and demos (2-9 pages, includ
 
 Mar 2 (update) - Dear potential delegates, please note the workshop organisers are in discussion with the overall workshops chairs (who are discussing with the Accessibility Chairs and the General Chairs) for ACM CHI 2021. Please note the current set of technologies listed should not be a barrier to your participation. -->
 
-Please apply to attend and we will discuss your accessibility needs with you. As chairs for this particular workshop we are committed to being inclusive so we will work with our delegates to ensure participation for all as ACII 2022 is for all. This might mean we drop our plans to use any particular technology if we cannot find a suitable way to make the experience for delegates inclusive.
+Please apply to attend and we will discuss your accessibility needs with you. As chairs for this particular workshop we are committed to being inclusive so we will work to ensure participation for all as ACII 2022 is for all. This might mean we drop our plans to use any particular technology if we cannot find a suitable way to make the experience inclusive.
 
 
 ## Organization

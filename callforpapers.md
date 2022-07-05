@@ -2,11 +2,11 @@
 sidebar:
   - title: "Important Dates:"
     image_alt: "in the moment emotions."
-    text: "Papers Deadline: 8-July-2022"
+    text: "Papers Deadline: 22-July-2022"
   - extra: ""
-    text: "Papers Decisions: 31-July-2022"
+    text: "Papers Decisions: 5-August-2022"
   - extra: ""
-    text: "Camera-Ready Deadline: 10-August-2022"
+    text: "Camera-Ready Deadline: 12-August-2022"
   - extra: ""
     text: "Workshop: Monday, 17-Oct-2022"
   - extra: ""
@@ -23,6 +23,7 @@ title: Call for Papers
 ---
 
 <!-- {::options auto_ids="false" /} -->
+**Submission deadline extended to July 22nd, 23:59 AoE**
 
 To train machines to detect and recognise human emotions sensibly, we need valid emotion ground truths that consider dynamic changes over time. A fundamental challenge here is the momentary emotion elicitation and capture (MEEC) from groups and individuals continuously and in real-time, without adversely affecting user experience. In this half-day virtual ACII 2022 workshop, we will (1) have a keynote presentation about ambulatory sampling methods by Prof. Ulrich Ebner-Priemer from the Karlsruhe Institute of Technology; (2) have participant talks showcasing their submissions; (3) brainstorm on techniques to understand dynamic changes given different temporal measurement resolutions; and (4) create a battery of methods relevant to diverse affective contexts.
 
