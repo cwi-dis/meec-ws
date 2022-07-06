@@ -8,7 +8,7 @@ header:
 sidebar:
   - title: "Important Dates:"
     image_alt: "in the moment emotions."
-    text: "Papers Deadline: 22-July-2022"
+    text: "Papers Deadline: ~~8-July-2022~~ 22-July-2022"
   - extra: ""
     text: "Papers Decisions: 5-August-2022"
   - extra: ""
