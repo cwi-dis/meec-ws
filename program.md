@@ -22,19 +22,25 @@ layout: single
 title: Workshop Program
 ---
 
-TBA
+##Keynote speaker
+![Ulrich Ebner-Priemer](/assets/imgs/Ebner-Priemer_Portrait_2020.png)
+Prof. Dr. Ulrich Ebner-Priemer
 
-<!--
-We plan for a half-day (4 hours 15 minutes) virtual workshop with paper submissions (2-9 pages) as position papers, demos, and/or posters focusing on novel concepts, perspectives, or works in progress.
+Title:
+Monitoring the dynamics of real life using ambulatory assessment
 
-The workshop will take place primarily over Zoom, where we will additionally use Miro for collaborative (synchronous) brainstorming. We will use Slack for offline interaction (before, during, after WS) so that we also maintain contact. Given the four timezones to accommodate between organizers and our keynote speaker, we aim to start in the afternoon in Central European Summer Time.
+Abstract:
+Real-time mobile smartphone sampling of psychopathological symptoms and behaviour, sometimes also called Ambulatory Assessment, has become more and more popular, offering three key advantages: 1) Real time assessment eliminates retrospective biases. 2) Real life assessment enables to investigate symptomatology in the most important context: the everyday life´s of our patients. 3) The within-subject perspective offers the possibility to elucidate psychopathological mechanisms in everyday life. According to current research, the dynamics of affective states and the intentional regulation of emotions are even more important to psychological health and maladjustment, than the affective states itself. However, capturing the ebb and flow in everyday life is not trivial. Recent technical developments resulted in both fancy hardware to collect data in everyday life and powerful data modelling techniques to analyze it. All three advantages come with the promise of increasing validity and reliability and therewith decreasing costs and sample size for future studies.
 
-Our workshop timing: **Sunday May 9, JST 22:00-02:15 (next day) / PDT 06:00-10:15 / CEST 15:00-19:15 (UTC+02:00).** -->
+In my talk, I will focus on four examples of Ambulatory Assessment to illustrate opportunities in psychological research: a) utilizing high frequency data assessment to model affective dynamics, b) using location-triggered e-diaries to investigate the relation between stress-reactivity and environmental components, c) monitoring physical activity and telecommunication behaviour to predict upcoming episodes in bipolar patients.
 
+I will conclude my talk on specifying disadvantages and pitfalls of Ambulatory Assessment. In conclusion, Ambulatory Assessment does offer a wealth of methodological approaches to enhance the understanding of psychopathological symptoms in the most important context: the daily life´s of our patients.
 
-<!-- ## Schedule
+##Schedule
 
-### 5 min. - Warm Up:  Login to the virtual workshop (Zoom) and meet all the participants
+MEEC will be a half-day (4 hours 15 minutes) hybrid workshop.
+
+<!-- ### 5 min. - Warm Up:  Login to the virtual workshop (Zoom) and meet all the participants
 
 ### 15 min. - Welcome: Introduce organizers, participants, workshop objectives and schedules
 
@@ -62,7 +68,8 @@ Our workshop timing: **Sunday May 9, JST 22:00-02:15 (next day) / PDT 06:00-10:1
 ### <span style="color:orange"> 15 min. - ***Break*** </span>
 
 
-### 30 min. - Keynote presentation by Prof. Mohammad Soleymani titled "Machine Understanding of Emotional Expressions" [09:15 PDT]
+### 30 min. - Keynote presentation by Prof. Mohammad Soleymani titled "Machine Understanding of Emotional Expressions" [09:15 PDT] -->
+
  <!-- / 11:15 EST / 17:15 CET / 00:15 JST (+1 day)) -->
 <!--
 ### 10 min. - Q&A
