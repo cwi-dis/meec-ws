@@ -22,7 +22,7 @@ layout: single
 title: Workshop Program
 ---
 
-##Keynote speaker
+**Keynote speaker**
 
 
 ![Ulrich Ebner-Priemer](/assets/imgs/Ebner-Priemer_Portrait_2020.png)
