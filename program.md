@@ -22,7 +22,51 @@ layout: single
 title: Workshop Program
 ---
 
-**Keynote speaker**
+## Schedule
+
+<!-- With JavaScript activated, timezone-localizer.js will automatically convert the ISO 8601 times to the local timezone and format of the browser. -->
+<table>
+<colgroup>
+	<col style="width: 7em;" >
+	<col style="width: auto;" >
+</colgroup>
+<tbody>
+	<tr>
+		<th>Time</th>
+		<th>Activity</th>
+	</tr>
+	<tr>
+		<td id="time-1" >2022-10-17T 13:00:00+09:00</td>
+		<td>Introduction to the workshop</td>
+	</tr>
+	<tr>
+		<td id="time-2" >2022-10-17T 13:05:00+09:00</td>
+		<td>Keynote (30 minutes presentation, 15 minutes Q&amp;A)</td>
+	</tr>
+	<tr>
+		<td id="time-3" >2022-10-17T 13:50:00+09:00</td>
+		<td><i>Break</i></td>
+	</tr>
+	<tr>
+		<td id="time-4" >2022-10-17T 14:00:00+09:00</td>
+		<td>Lightning talks</td>
+	</tr>
+	<tr>
+		<td id="time-5" >2022-10-17T 16:00:00+09:00</td>
+		<td><i>Break</i></td>
+	</tr>
+	<tr>
+		<td id="time-6" >2022-10-17T 16:15:00+09:00</td>
+		<td>Ideation session</td>
+	</tr>
+	<tr>
+		<td id="time-7" >2022-10-17T 17:15:00+09:00</td>
+		<td>Social event</td>
+	</tr>
+</tbody>
+</table>
+
+## Keynote speaker
 
 
 ![Ulrich Ebner-Priemer](/assets/imgs/Ebner-Priemer_Portrait_2020.png)
