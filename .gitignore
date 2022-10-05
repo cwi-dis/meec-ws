@@ -5,8 +5,10 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-Gemfile
+*.gem
+.bundle
 Gemfile.lock
+**/vendor/bundle
 !./_includes/head/custom.html
 !./_includes/footer.html
 !./_includes/sidebar.html
