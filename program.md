@@ -52,15 +52,23 @@ title: Workshop Program
 		<td>Lightning talks</td>
 	</tr>
 	<tr>
-		<td id="time-5" >2022-10-17T 16:00:00+09:00</td>
+		<td id="time-5" >2022-10-17T 15:15:00+09:00</td>
 		<td><i>Break</i></td>
 	</tr>
 	<tr>
-		<td id="time-6" >2022-10-17T 16:15:00+09:00</td>
+		<td id="time-6" >2022-10-17T 15:25:00+09:00</td>
+		<td>Invited talk 1 (15 minutes presentation, 10 minutes Q&amp;A)</td>
+	</tr>
+	<tr>
+		<td id="time-7" >2022-10-17T 15:50:00+09:00</td>
+		<td>Invited talk 2 (15 minutes presentation, 10 minutes Q&amp;A)</td>
+	</tr>
+	<tr>
+		<td id="time-8" >2022-10-17T 16:15:00+09:00</td>
 		<td>Ideation session</td>
 	</tr>
 	<tr>
-		<td id="time-7" >2022-10-17T 17:15:00+09:00</td>
+		<td id="time-9" >2022-10-17T 17:15:00+09:00</td>
 		<td>Social event</td>
 	</tr>
 </tbody>
