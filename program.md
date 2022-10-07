@@ -113,3 +113,49 @@ I mainly work on emotions, art and implicit attitudes, such as implicit racist a
 I am currently a postdoctoral researcher at UAntwerp and KULeuven.
 In October 2019, I started doing interdisciplinary research with a team of social psychologists from Agnes Moors' Lab at KULeuven on implicit bias and implicit racism.
 I received a Postdoctoral Fellowship from the FWO (Flemish Research Foundation).
+
+## Submissions
+
+Five submissions were accepted and will be presented in the "Lightning talks" activity as scheduled below.
+The talks itself will be 8 minutes long, followed by 7 minutes of Q&A.
+
+<!-- With JavaScript activated, timezone-localizer.js will automatically convert the ISO 8601 times to the local timezone and format of the browser. -->
+<table>
+<colgroup>
+	<col style="width: 7em;" >
+	<col style="width: auto;" >
+	<col style="width: auto;" >
+</colgroup>
+<tbody>
+	<tr>
+		<th>Time</th>
+		<th>Title</th>
+		<th>Presenters</th>
+	</tr>
+	<tr>
+		<td id="time-ltalk-1" >2022-10-17T 14:00:00+09:00</td>
+		<td>Could we Predict Flow from Ear-EEG?</td>
+		<td>Michael T. Knierim, Karen Bartholomeyczik, Petra Nieken and Christof Weinhardt</td>
+	</tr>
+	<tr>
+		<td id="time-ltalk-2" >2022-10-17T 14:15:00+09:00</td>
+		<td>Driver Experience Sampling In The Wild: A Memory-Aware Sentiment Strength Extraction Method</td>
+		<td>Felix Dollack, Da Li, Ryuta Yamaguchi, Tomoki Yoshihisa, Shinji Shimojo and Yukiko Kawai</td>
+	</tr>
+	<tr>
+		<td id="time-ltalk-3" >2022-10-17T 14:30:00+09:00</td>
+		<td>Music Charts for Approximating Everyday Emotions: A Dataset of Daily Charts with Music Features from 106 Cities</td>
+		<td>Yangyang Zhou, Kongmeng Liew, Shuntaro Yada, Shoko Wakamiya and Eiji Aramaki</td>
+	</tr>
+	<tr>
+		<td id="time-ltalk-4" >2022-10-17T 14:45:00+09:00</td>
+		<td>A chat with Dr. Jekyll and Mr. Hyde - Intent in chatbot communication</td>
+		<td>Jonas Pöhler, Nadine Flegel, Tilo Mentler and Kristof Van Laerhoven</td>
+	</tr>
+	<tr>
+		<td id="time-ltalk-5" >2022-10-17T 15:00:00+09:00</td>
+		<td>Emotion Recognition from Non-Straight Walking Gaits Induced by Emotional Videos</td>
+		<td>Nitchan Jianwattanapaisarn, Kaoru Sumi and Akira Utsumi</td>
+	</tr>
+</tbody>
+</table>
