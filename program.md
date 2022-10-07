@@ -25,6 +25,7 @@ title: Workshop Program
 ## Schedule
 
 <!-- With JavaScript activated, timezone-localizer.js will automatically convert the ISO 8601 times to the local timezone and format of the browser. -->
+<p id="time-conversion-note" style="display: none;" ><small>Note: The times below have been converted to your local time zone.</small></p>
 <table>
 <colgroup>
 	<col style="width: 7em;" >
