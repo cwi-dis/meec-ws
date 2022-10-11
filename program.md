@@ -106,7 +106,11 @@ title: Workshop Program
 	</tr>
 	<tr>
 		<td id="time-11" >2022-10-17T 15:50:00+09:00</td>
-		<td>Invited talk</td>
+		<td>
+			<small><i>Invited talk</i></small><br />
+			<b>The heart as a subjective pacemaker: how experienced time expands and contracts within each heartbeat</b><br />
+			Irena Arslanova
+		</td>
 	</tr>
 	<tr>
 		<td id="time-12" >2022-10-17T 16:15:00+09:00</td>
@@ -158,3 +162,26 @@ I mainly work on emotions, art and implicit attitudes, such as implicit racist a
 I am currently a postdoctoral researcher at UAntwerp and KULeuven.
 In October 2019, I started doing interdisciplinary research with a team of social psychologists from Agnes Moors' Lab at KULeuven on implicit bias and implicit racism.
 I received a Postdoctoral Fellowship from the FWO (Flemish Research Foundation).
+
+![Irena Arslanova](/assets/imgs/Irena.jpg)
+
+**Dr. Irena Arslanova** (Royal Holloway, University of London)
+
+__Title:__
+The heart as a subjective pacemaker: how experienced time expands and contracts within each heartbeat
+
+__Abstract:__
+The experience of time is highly subjective.
+When we stare at the hands of a clock, a minute can feel much longer than when we are swept up in a fun activity.
+How this subjective experience of time arises is a hotly debated issue.
+Here, we focus on the role of the heart, whose activity provides a continuous background to all information processing.
+To study the causal influence of cardiac signals, we present timed stimuli (a shape, and auditory beep, a fearful or a happy face) either during the systolic phase of the cardiac cycle, when the heart contracts or during the diastolic phase, when the heart relaxes.
+We find that physically identical stimulus durations are perceived shorter during heart's contraction but longer during heart's relaxation.
+Time contracts and expands within each heartbeat like an accordion.
+But we also find that this cardiac effect on time is further modulated by experienced arousal, explaining why time may speed up in high arousal situations.
+
+__Bio:__
+During my undergraduate Psychology degree at City, University of London I was examining emotion/body perception and embodiment (under the supervision of Prof Bettina Foster).
+Specifically, how we engage our own internal body representation when trying to understand others.
+My PhD (UCL with Prof Patrick Haggard) was about touch and how we piece together distinct inputs from the skin so that our experience of touched objects is unified rather than fragmented.
+I am now a postdoctoral researcher at Royal Holloway, University of London in a lab led by Prof Manos Tsakiris, where my main interest is how our internal states (changes in the heart) influence how we experience elapsing time.
