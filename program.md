@@ -24,6 +24,8 @@ title: Workshop Program
 
 ## Schedule
 
+Feel free to use [this Google Calendar](https://calendar.google.com/calendar/embed?src=7347776f725ace60c4d0b232ea1c17d6ad1712da2661b71bd4da8ebf4b0a355f%40group.calendar.google.com&ctz=Asia%2FTokyo "Warning: Redirection to Google Calendar") for convenience.
+
 <!-- With JavaScript activated, timezone-localizer.js will automatically convert the ISO 8601 times to the local timezone and format of the browser. -->
 <p id="time-conversion-note" style="display: none;" ><small>Note: The times below have been converted to your local time zone.</small></p>
 <table>
