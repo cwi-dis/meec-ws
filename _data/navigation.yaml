@@ -7,6 +7,8 @@ main:
     url: /callforpapers.html
   - title: "program"
     url: /program.html
+  - title: "attend"
+    url: /attend.html
   - title: "organizers"
     url: /committee.html
   - title: "meec (2020)"
