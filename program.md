@@ -118,6 +118,10 @@ title: Workshop Program
 	</tr>
 	<tr>
 		<td id="time-13" >2022-10-17T 17:15:00+09:00</td>
+		<td>Closing</td>
+	</tr>
+	<tr>
+		<td id="time-14" >2022-10-17T 17:30:00+09:00</td>
 		<td>Social event</td>
 	</tr>
 </tbody>
