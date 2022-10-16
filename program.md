@@ -187,7 +187,7 @@ Time contracts and expands within each heartbeat like an accordion.
 But we also find that this cardiac effect on time is further modulated by experienced arousal, explaining why time may speed up in high arousal situations.
 
 __Bio:__
-During my undergraduate Psychology degree at City, University of London I was examining emotion/body perception and embodiment (under the supervision of Prof Bettina Foster).
+During my undergraduate Psychology degree at City, University of London I was examining emotion/body perception and embodiment (under the supervision of Prof Bettina Forster).
 Specifically, how we engage our own internal body representation when trying to understand others.
 My PhD (UCL with Prof Patrick Haggard) was about touch and how we piece together distinct inputs from the skin so that our experience of touched objects is unified rather than fragmented.
 I am now a postdoctoral researcher at Royal Holloway, University of London in a lab led by Prof Manos Tsakiris, where my main interest is how our internal states (changes in the heart) influence how we experience elapsing time.
