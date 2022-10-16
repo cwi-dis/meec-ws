@@ -29,7 +29,7 @@ Please let us know if you are attending online or on-site using [this](https://f
 ### Venue
 
 `L1` lecture hall in the Information Science building of the Nara Institute of Science and Technology.
-The location of the entrance can be viewed [here](https://nominatim.openstreetmap.org/ui/reverse.html?lat=34.73176&lon=135.73396&zoom=18 "Coordinates of the entrance to the lecture hall on OpenStreetMap").
+The location of the entrance (red) to the lecture hall (blue) can be viewed [here](https://nominatim.openstreetmap.org/ui/reverse.html?lat=34.73175&lon=135.73403&zoom=18 "Coordinates of the entrance to the lecture hall on OpenStreetMap").
 
 ### Internet
 
