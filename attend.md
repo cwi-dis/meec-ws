@@ -36,6 +36,10 @@ The location of the entrance can be viewed [here](https://nominatim.openstreetma
 On campus, you will be able to use the [eduroam](https://eduroam.org/) WiFi infrastructure for internet access.
 If your home institution provides eduroam, we recommend setting up your account before coming to the venue.
 
+### Equipment
+
+Since we will have many virtual visitors and we might use break rooms for the ideation session, we strongly advise you to bring headphones with a microphone.
+
 ## 🌐 Online
 
 Zoom links for online participation will be distributed to participants who registered at the ACII conference.
