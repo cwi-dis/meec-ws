@@ -161,13 +161,19 @@ We argue that existing accounts of emotional unity fail and that instead emotion
 We propose that felt emotional unity arises from our experience of the temporal-causal order of the world.
 Emotions are unified since their components appear to occur simultaneously and as having a common causal origin.
 
-__Bio:__
+__Bio of Kris Goffin:__
 I am a philosopher.
 My research focuses on philosophy of mind, philosophy of cognitive science, emotion theory, and aesthetics.
 I mainly work on emotions, art and implicit attitudes, such as implicit racist and sexist prejudices and stereotypes.
 I am currently a postdoctoral researcher at UAntwerp and KULeuven.
 In October 2019, I started doing interdisciplinary research with a team of social psychologists from Agnes Moors' Lab at KULeuven on implicit bias and implicit racism.
 I received a Postdoctoral Fellowship from the FWO (Flemish Research Foundation).
+
+__Bio of Gerardo Viera:__
+I'm a lecturer (the UK equivalent of an assistant professor) in the Department of Philosophy at the University of Sheffield specializing in the philosophy of cognitive science and mind I am also an associate director of the Hang Seng Centre for Cognitive Studies.
+In my work I try and understand how creatures like us come to think about and perceive time.
+I also study issues in the philosophy of cognitive science more generally (esp. issues regarding mental representation), philosophy of science (esp. kinds in cognitive science), philosophy of language, and metaphysics.
+At Sheffield I teach modules in the philosophy of science, epistemology, and philosophy of cognitive science (also as part of the Cognitive Studies program).
 
 ![Irena Arslanova](/assets/imgs/Irena.jpg)
 
