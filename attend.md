@@ -22,7 +22,8 @@ layout: single
 title: Attendance
 ---
 
-Please let us know if you are attending online or on-site using [this](https://forms.gle/TeHN5rE8aPpHN1su9 "Warning: Redirection to Google Forms") registration form.
+Please let us know if you are attending online or on-site using [this registration form](https://forms.gle/TeHN5rE8aPpHN1su9 "Warning: Redirection to Google Forms").
+It is **free** to participate.
 
 ## 🚩 On-site
 
